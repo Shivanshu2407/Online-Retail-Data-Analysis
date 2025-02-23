@@ -35,12 +35,6 @@ git clone https://github.com/your-username/Online-Retail-Data-Analysis.git
 cd Online-Retail-Data-Analysis
 ```
 
-### Create a virtual environment (optional but recommended):
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-```
-
 ### Install dependencies:
 ```bash
 pip install -r requirements.txt
